@@ -18,4 +18,4 @@ gget https://proof.ovh.net/files/100Mb.dat
 ![Example Output](example.png?raw=true "Example Output")
 
 ## Existing Files
-If a file with the same name as the download already exists at the destination directory, you will be asked whether you want to overwrite it.
+If a file with the same name as the download already exists in the destination directory, you will be asked whether you want to overwrite it.
